@@ -1,0 +1,14 @@
+
+/* Variables and mixins declared here will be available in all other SCSS files */
+/* https://github.com/jgthms/bulma/issues/1293 */
+
+$body-overflow-y: auto;
+
+// Def some global variables
+$gradient-summer: linear-gradient(135deg, #a0a0a0 30%, #a98f71 100%);
+
+// Redef some Bulma globals
+$family-sans-serif: "IBM Plex Sans", sans-serif;
+$primary: #1e509c;
+$warning: springgreen;
+$success: #4682b4; //http://colorcode.is/from/code/5cbeb5
